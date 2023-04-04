@@ -1,5 +1,5 @@
 # Napaphach's Portfolio
-Example Project Machine Learning Portfolio
+Example of my Project Portfolio
 
 ## [Project 1 : CIFAR10 Project](https://github.com/NapaphachJ/CIFAR10-Project)
 * overfit a small portiion of training data
